@@ -78,7 +78,7 @@
 ### ✅ 4. Logo 系统
 
 **N 标志（原始SVG路径，不可修改）：**
-```svg
+```html
 <svg width="200" height="220" viewBox="0 0 200 220" fill="none">
   <rect x="10" y="10" width="70" height="200" fill="[COLOR]"/>
   <path d="M100,10 L100,210 L170,210 L170,80 Q170,10 100,10 Z" fill="[COLOR]"/>
